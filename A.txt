@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-B Edit A.txt
-=======
-A Edit A
->>>>>>> 96c026c315b656f45d3ed9589225defa68f84453
+B edit A lan 1
